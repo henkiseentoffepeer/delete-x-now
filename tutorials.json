@@ -1,0 +1,227 @@
+{
+  "Windows": {
+    "Chrome": {
+      "versions": {
+        "Version 70 and Below": {
+          "steps": [...]
+        },
+        "Version 80 and Above": {
+          "steps": [...]
+        }
+      }
+    },
+    "Edge": {
+      "versions": {
+        "Legacy": {
+          "steps": [...]
+        },
+        "New Chromium-based Edge": {
+          "steps": [...]
+        }
+      }
+    },
+    "Firefox": {
+      "versions": {
+        "Version 56 and Below": {
+          "steps": [...]
+        },
+        "Version 60 and Above": {
+          "steps": [
+		
+		{
+      "step1text": "<b>Step 1:</b> Open Mozilla Firefox and click the <i>hamburger menu</i> (three lines) in the top-right corner.",
+      "step1link": "<a href='https://support.mozilla.org/en-US/kb/menu-button-firefox'>Learn more about the menu button</a>",
+      "step1image": "<img src='https://example.com/firefox-step1.jpg' alt='Step 1 Image'>"
+    },
+    {
+      "step2text": "<b>Step 2:</b> Go to <i>Settings</i> > <i>Search</i>. In the 'Default Search Engine' section, choose your preferred search engine.",
+      "step2link": "<a href='https://support.mozilla.org/en-US/kb/search-engine-settings-firefox'>Learn more about search settings</a>",
+      "step2image": "<img src='https://example.com/firefox-step2.jpg' alt='Step 2 Image'>"
+    },
+    {
+      "step3text": "<b>Step 3:</b> Under 'Default Search Engine,' select <b>Ecosia</b>, <i>DuckDuckGo</i>, or <i>Brave Search</i> as your default search engine.",
+      "step3link": "<a href='https://www.ecosia.org/'>Ecosia Official Website</a>",
+      "step3image": "<img src='https://example.com/firefox-step3.jpg' alt='Step 3 Image'>"
+    }
+  ]
+
+
+        }
+      }
+    },
+    "Brave": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Opera": {
+      "versions": {
+        "Version 50 and Below": {
+          "steps": [...]
+        },
+        "Version 60 and Above": {
+          "steps": [...]
+        }
+      }
+    }
+  },
+  "macOS": {
+    "Safari": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Chrome": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Firefox": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Brave": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Opera": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    }
+  },
+  "Linux": {
+    "Chrome": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Chromium": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Firefox": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Brave": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Opera": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    }
+  },
+  "Android": {
+    "Chrome": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Firefox": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Brave": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Opera": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Samsung Internet": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    }
+  },
+  "iOS": {
+    "Safari": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Chrome": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Firefox": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    }
+  },
+  "iPadOS": {
+    "Safari": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Chrome": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    },
+    "Firefox": {
+      "versions": {
+        "Latest": {
+          "steps": [...]
+        }
+      }
+    }
+  }
+}
